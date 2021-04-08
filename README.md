@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @significant-no
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning [Istio](https://istio.io/)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in automation of business processes.
+- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/), [Istio](https://istio.io/), [Spring](https://spring.io/), [Keycloak](https://www.keycloak.org/) & [GCP](https://cloud.google.com/)
+- 💞️ I’m working on [Nest](https://github.com/significant-no/nest) - A light weight process engine for rapid automation of business processes.
 - 📫 How to reach me ...
 
 <!---
